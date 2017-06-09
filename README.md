@@ -1,6 +1,6 @@
-#NTU CSIE Prob2017
+# NTU CSIE Prob2017
 
-#hash function
+## hash function
 Pearson
 
 
@@ -8,10 +8,10 @@ MD5
 SHA-1
 
 
-#FUNTIONAL
+## FUNTIONAL
 salted hash
 universal hash (random selected hashing)
 
-#ANALYSIS
+## ANALYSIS
 
 
