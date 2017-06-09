@@ -1,16 +1,27 @@
-# NTU CSIE Prob2017
+# NTU CSIE Probability Project 2017
+This project is a small-scale research to the relationship with hashing and probability.
+
+## Original Restriction
+
 
 ## hash function
-Pearson
+### Pearson
 
+### MD5
 
-MD5
-SHA-1
+### SHA-1
+
+### SHA-2
+
+### BLAKE2
 
 
 ## FUNTIONAL
-salted hash
-universal hash (random selected hashing)
+### Salted hash
+
+### Key stretching
+
+### Universal hash (random selected hashing)
 
 ## ANALYSIS
 
