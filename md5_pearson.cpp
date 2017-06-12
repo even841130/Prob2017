@@ -53,7 +53,7 @@ int main()
 		for(int i = 0 ; i < TABLESIZE ; i++)
 		{
 			int data = rand();
-			const std::string data_str = std::to_string(data);
+			const std::string data_str = std::string::to_string(data);
 			//hash code
 			std::string hash_code_str = md5(data_str);
 			int hash_code = PearsonHash(hash_code_str,code_table);
